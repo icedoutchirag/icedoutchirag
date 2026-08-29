@@ -44,6 +44,6 @@ Currently exploring **LLMs, distributed data pipelines, and system design**, and
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=<your-github-username>&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=icedoutchirag&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/<your-github-username>/<your-github-username>/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/icedoutchirag/icedoutchirag/output/github-snake-dark.svg)
