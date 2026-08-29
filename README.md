@@ -9,11 +9,11 @@
 
 ## 💫 About Me
 
-I'm a **B.Tech Information Technology student at Delhi Technological University (DTU)**, Class of 2027, building systems at the intersection of **data engineering, full-stack development, and AI**.
+I'm an **IT student** passionate about building impactful software and solving complex problems. I have a strong foundation in **Data Structures & Algorithms** and enjoy continuously improving my problem-solving and programming skills.
 
-I recently worked as a **Data Engineer Intern at adhyaAI**, where I built scraping pipelines and ETL workflows processing 10,000+ records with 99% reliability. I like building things that run end-to-end in production — from AI-powered apps to real-time data pipelines.
+My interests span **Software Development**, **Data Engineering**, and **Full-Stack Development**. I'm particularly interested in building **AI-powered full-stack systems** that combine intelligent models with practical, scalable applications.
 
-Currently exploring **LLMs, distributed data pipelines, and system design**, and always solving problems on LeetCode and GeeksforGeeks (200+ solved).
+I'm constantly learning, experimenting with new technologies, and working on projects that help me turn ideas into real-world solutions.
 
 ---
 
